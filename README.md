@@ -33,7 +33,7 @@ El eje Y representa la temperatura de la CPU en grados Celsius.
 
 1. ¿Qué función cumple ```plt.fignum_exists(self.fig.number)``` en el ciclo principal?
 
-### R// : Verifica si la ventana de la gráfica todavía existe. Mientras la ventana siga abierta, el ciclo continúa ejecutándose. Si el usuario la cierra, la función devuelve False y el programa termina
+# R// : Verifica si la ventana de la gráfica todavía existe. Mientras la ventana siga abierta, el ciclo continúa ejecutándose. Si el usuario la cierra, la función devuelve False y el programa termina
 
 2. ¿Por qué se usa ```time.sleep(self.intervalo)``` y qué pasa si se quita?
 R//:hace que el programa espere un tiempo entre una lectura y la siguiente. En este caso espera 0.5 s.
