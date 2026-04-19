@@ -3,7 +3,7 @@
 # Lab03: Visualización interactiva de datos en Raspberry Pi usando Python y Matplotlib
 
 ## Integrantes
-
+Jesus Andre Bojaca
 
 ## Documentación
 
